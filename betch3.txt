@@ -1,3 +1,5 @@
 altera
 class
 menu
+setting
+profil
